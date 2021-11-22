@@ -34,7 +34,6 @@ public class DLL {
         }
         System.out.println("START");
 
-        //For reverse printing
     }
 
 
